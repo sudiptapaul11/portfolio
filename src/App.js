@@ -3,7 +3,7 @@ import "./navbar.css";
 import img1 from "./images/SP.png"
 import img2 from "./images/mainpic.png"
 import img3 from "./images/mynewpic1.jpg"
-import img4 from "./images/spresume1.jpg"
+import img4 from "./images/resumeSP2.jpg"
 
 
 
@@ -122,6 +122,7 @@ const Navbar = () => {
         
         <div id="ui-ux">
           <div className="uiux">UI-UX Designs & Digital Arts</div>
+          
           
             <h4 className="uiuxx">To view UI-UX design and Digital arts please click :<a href="https://www.behance.net/sudiptapaul2">here</a>.</h4>
             
